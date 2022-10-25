@@ -1,1 +1,1 @@
-writing some sql code to test
+writing some sql code for testing
